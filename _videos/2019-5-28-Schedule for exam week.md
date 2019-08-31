@@ -5,4 +5,3 @@ cover_id: 567dacd48c1ce733e36c352a77c4e69967f4e15e.jpg
 date: 2019-5-28
 tags: [studywithme]
 ---
-[Holly Gabrielle](https://www.youtube.com/watch?v=HdhYSGDMhpM&t=2s)

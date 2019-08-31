@@ -5,4 +5,3 @@ cover_id: eed5bc9e388af5378e4e2de8f9cf89d76a3ac354.jpg
 date: 2019-5-25
 tags: [studywithme]
 ---
-[Grant Collins](https://www.youtube.com/watch?v=VxRX2u0Bk2g)
