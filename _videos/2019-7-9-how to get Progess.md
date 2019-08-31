@@ -1,7 +1,11 @@
 ---
-title: 【熟肉|John Fish】回答你们的问题|如何取得进步|保持平衡的方法
-aid: 57364090
+title: 讲的很详细的PR教程 很适合新手学习
+aid: 47258094
 cover_id: b66656ffe02a047f6e92f2530249851ac4ef3660.jpg
-date: 2019-7-9
+date: 2019-8-30
 tags: [studywithme]
 ---
+
+[如果想看全部课程请点此链接进入网页观看！](https://www.bilibili.com/video/av47258094/?p=1)  
+特点：多特效示例教程。
+
