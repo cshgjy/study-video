@@ -1,11 +1,6 @@
 name: study video
 url: 'https://wblearn.github.io/study-video/'
 baseurl: '/study-video'
-email: 1275660493@qq.com
-weibo: https://weibo.com/5717080324
-twitter: https://twitter.com/wblearn1
-youtube: https://www.youtube.com/wblearn713
-google_analytics: 'UA-00000000-1'
 
 # LiveRe setttings
 # You can get your uid from https://livere.com/insight/myCode (General web site)
